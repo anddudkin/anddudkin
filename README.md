@@ -1,7 +1,15 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anddudkin" alt="anddudkin" /> </p>
 
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+</p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anddudkin&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" alt="anddudkin" /></p>
+
+🔭 I’m currently working on memristor based SNN simulator
 <!--
-**anddudkin/anddudkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**qubvel/qubvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
