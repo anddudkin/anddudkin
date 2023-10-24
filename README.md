@@ -11,7 +11,7 @@
   
 🔭I’m currently working on memristor based SNN simulator
 ------------------------------------------------------------
-<p align="center">&nbsp;<img align="center" src="https://leetcode.card.workers.dev/anddudkin?theme=dark&font=baloo&extension=null" alt="anddudkin"/></p>
+<p align="center">&nbsp;<img align="center" src="https://leetcode.card.workers.dev/anddudkin?theme=dark&font=baloo&extension=null" width=400 width=500 alt="anddudkin"/></p>
 
 
 
