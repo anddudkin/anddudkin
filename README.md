@@ -7,11 +7,11 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anddudkin&theme=dark&show_icons=truehide_title=true&include_all_commits=true" alt="anddudkin"/>
+
   
-🔭I’m currently working on memristor based SNN simulator
+🔭I’m currently working on memristor based SNN simulator and other AI projects
 ------------------------------------------------------------
-<p align="center">&nbsp;<img align="center" src="https://leetcode.card.workers.dev/anddudkin?theme=dark&font=baloo&extension=null" width=400 width=500 alt="anddudkin"/></p>
+
 
 
 
